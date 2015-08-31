@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>redirectURL</key>
+	<string>http://www.lifekee.com/social/linkedin</string>
+	<key>redirectURI</key>
+	<string>lifekee://linkedin.authorize</string>
+	<key>clientSecret</key>
+	<string>VKe1ag0UV6xDCiYZ</string>
+	<key>clientID</key>
+	<string>78u110bbijpz7e</string>
+</dict>
+</plist>
